@@ -36,7 +36,7 @@
 | 20  | Rute Fernandes do Nascimento        | -           | -         | -     | -     | -     | -     | -     | -     |
 | 21  | Thiago Tierre de Lima               | -           | -         | -     | -     | -     | -     | -     | -     |
 | 22  | Tiago Caio de Oliveira Lisboa       | -           | -         | -     | -     | -     | -     | -     | -     |
-| 23  | Victor Wagner Dias Ribeiro          | -           | -         | -     | -     | -     | -     | -     | -     |
+| 23  | Victor Wagner Dias Ribeiro          | My Phone Time | -         | 21h59m | -     | -     | -     | -     | -     |
 | -   | Leonardo Ataide Minora              | iOS         | 13h41     | -     | -     | -     | -     | -     | -     |
 
 ## [](#header-2) Aplicativos mais utilizado
@@ -65,5 +65,5 @@
 | 20  | Rute Fernandes do Nascimento        | -               | -     | -     | -     | -     | -     | -     |
 | 21  | Thiago Tierre de Lima               | -               | -     | -     | -     | -     | -     | -     |
 | 22  | Tiago Caio de Oliveira Lisboa       | -               | -     | -     | -     | -     | -     | -     |
-| 23  | Victor Wagner Dias Ribeiro          | -               | -     | -     | -     | -     | -     | -     |
+| 23  | Victor Wagner Dias Ribeiro          | -               | Samsung Internet (3h45m) | -     | -     | -     | -     | -     |
 | -   | Leonardo Ataide Minora              | WhatsApp (5h48) | -     | -     | -     | -     | -     | -     |
